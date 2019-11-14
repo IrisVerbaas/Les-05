@@ -1,0 +1,49 @@
+
+body{
+    margin: 0;
+}
+
+main{
+    width: 600px;
+    height: 640px;
+    background: black;
+}
+
+.block{
+    float:left;
+}
+
+#block-01{
+    height: 200px;
+    width: 200px;
+    background: yellow;
+}
+
+#block-02{
+    height:300px;
+    width:244px;
+    background:white;
+    margin-left: 8px;
+}
+
+#block-03{
+    height: 300px;
+    width: 140px;
+    margin-left: 8px;
+    background: red;
+}
+
+#block-04{
+    height: 330px;
+    width: 200px;
+    background: blue;
+    margin-top: 8px;
+}
+
+#block-05{
+    height:330px;
+    width:370px;
+    background:purple;
+    margin-top: 8px;
+    margin-left: 8px;
+}
